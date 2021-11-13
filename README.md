@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
-<img src="https://github.com/ZhanpZ/Flix/blob/master/FlixP1.gif" width=250><br>
+<img src="https://github.com/ZhanpZ/Flix/blob/master/FlixP1.gif" width=250><br> <img src="https://github.com/ZhanpZ/Twitter_API_APP/blob/master/TwitterDemo.gif" width=250><br>
