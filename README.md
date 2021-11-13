@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 <p float="left">
 <img src="https://github.com/ZhanpZ/Flix/blob/master/FlixP1.gif" width=250><br>
 <img src="https://github.com/ZhanpZ/Twitter_API_APP/blob/master/TwitterDemo.gif" width=250><br>
-
 </p>
